@@ -102,6 +102,4 @@ Deberás incluir un enlace web directo a tu video explicativo subido a Google Dr
 | **4. Video Explicativo** | Te grabas en cámara explicando tu código (Axios y componentes) y muestras tu aplicación funcionando en el navegador. | Te grabas en cámara, pero la explicación es muy rápida, confusa o solo muestras la app sin explicar el código. | El video se reproduce, pero no sales en cámara (solo grabaste pantalla) o no explicaste nada del código. | El enlace no abre, es privado o no pusiste el video. (Aplica la regla de nota automática 0.0). |
 | **5. Documento PDF** | Entregas el PDF a tiempo con la portada completa y una introducción clara (mínimo 150 palabras) sobre tu aplicación. | Entregas el PDF a tiempo, pero la introducción es muy corta o copiada de internet sin explicar tu propio proyecto. | El documento está desorganizado, faltan datos importantes de la portada o no incluye la introducción. | No entregaste el archivo PDF. |
 
----
 
-> 💡 **Tip para README:** Puedes copiar este contenido directamente en tu archivo `README.md`. La tabla de rúbrica ya está en formato Markdown compatible con GitHub/GitLab. Si necesitas ajustar los saltos de línea o encabezados para tu repositorio específico, solo modifica los niveles de `#` según tu estructura de documentación.
